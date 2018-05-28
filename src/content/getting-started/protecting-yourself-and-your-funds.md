@@ -114,7 +114,7 @@ If you don't want one of these nifty devices, use <a href='https://kb.myetherwal
 ### 13. Install an adblocker that actually turns off Google/Bing Ads.
 <ul>
   <li id="pyayfl_17">
-    I recommend going with uBlock Orgin. If you are already using Adblock Plus, it does not hide Google Ads from you. Go into your Adblock Plus settings and uncheck the box that says “Allow some non-intrusive advertising”.
+    I recommend going with uBlock Origin. If you are already using Adblock Plus, it does not hide Google Ads from you. Go into your Adblock Plus settings and uncheck the box that says “Allow some non-intrusive advertising”.
   </li>
 </ul>
 
